@@ -2,7 +2,7 @@
 
 <h1> Movie-Database</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Description</h2>
 Project consists of a simple Flutter Movie application that allows the user to browse movies by genre in a clean Flutter app. Scroll vertically to switch genres and swipe horizontally through posters. Tap any poster to zoom in full screen, view details like director, release year, runtime and IMDb/Rotten Tomatoes ratings, or jump straight to its Wikipedia or IMDb page. All titles and images live in simple Dart model files and bundled assets, so swapping in your own data is as easy as editing the model.
