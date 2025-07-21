@@ -12,7 +12,6 @@ Project consists of a simple Flutter Movie application that allows the user to b
 <h2>Languages and Utilities Used</h2>
 
 - <b>Flutter</b> 
-- <b>Java</b>
 - <b>Dart</b>
 
 <h2>Environments Used </h2>
