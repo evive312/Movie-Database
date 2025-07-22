@@ -5,7 +5,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple Flutter Movie application that allows the user to browse movies by genre in a clean Flutter app. Scroll vertically to switch genres and swipe horizontally through posters. Tap any poster to zoom in full screen, view details like director, release year, runtime and IMDb/Rotten Tomatoes ratings, or jump straight to its Wikipedia or IMDb page. All titles and images live in simple Dart model files and bundled assets, so swapping in your own data is as easy as editing the model.
+Project consists of a simple Flutter Movie application that allows the user to browse movies by genre. Scroll vertically to switch genres and swipe horizontally through posters. Tap any poster to zoom in full screen, view details like director, release year, runtime and IMDb/Rotten Tomatoes ratings, or jump straight to its Wikipedia or IMDb page.
 <br />
 
 
@@ -17,7 +17,7 @@ Project consists of a simple Flutter Movie application that allows the user to b
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
-- <b>Linux</b>
+- <b>Android 15</b> 
 
 <h2>Program walk-through:</h2>
 <!--
