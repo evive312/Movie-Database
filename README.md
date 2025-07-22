@@ -2,6 +2,8 @@
 
 <h1> Movie-Database</h1>
 
+ ### [YouTube Demonstration](https://youtube.com/shorts/oliSr2Nbpw4)
+
 
 
 <h2>Description</h2>
@@ -20,36 +22,37 @@ Project consists of a simple Flutter Movie application that allows the user to b
 - <b>Android 15</b> 
 
 <h2>Program walk-through:</h2>
-<!--
+
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the App: <br/>
+<img src="https://i.imgur.com/G0syO9U.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Long Click opens  info menu:  <br/>
+<img src="https://i.imgur.com/xwHz8wD.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Clicking on show details brings up more details about movie: <br/>
+<img src="https://i.imgur.com/OqCfWuH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Clicking on Open IMDb or Wikipedia brings up each selected page:  <br/>
+<img src="https://i.imgur.com/btkoj6p.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cHDmlWa.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Clicking on movie brings up movie poster:  <br/>
+<img src="https://i.imgur.com/UEXQU9s.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
---!>
+Clicking on poster brings up IMDb page for more information of film  <br/>
+<img src="https://i.imgur.com/btkoj6p.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
 <!--
  ```diff
 - text in red
